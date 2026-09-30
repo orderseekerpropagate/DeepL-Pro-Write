@@ -1,0 +1,24 @@
+{
+  "repo": "deepl-pro-write",
+  "product": "DeepL Pro Write",
+  "kind": "productivity",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zaliv-part2",
+  "format": "license-md-zentool-v1-no-banner",
+  "category": "translation-tools",
+  "topics": [
+    "deepl-pro-write",
+    "deepl-desktop",
+    "deepl-windows",
+    "machine-translation",
+    "language-translation",
+    "text-translation",
+    "multilingual-tools",
+    "desktop-translator",
+    "windows-translation",
+    "document-translation",
+    "writing-localization"
+  ],
+  "site": "zentool.art"
+}
